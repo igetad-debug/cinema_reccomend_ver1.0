@@ -1,1 +1,1 @@
-# cinema_reccomend_ver1.0
+最初のシネマレコメンドのプロトタイプです。# cinema_reccomend_ver1.0
